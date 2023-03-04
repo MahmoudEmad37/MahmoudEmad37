@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+follow+to+see+more+codes+️‍🔥" />
 </p>
 
-<img align="right" alt="Coding" width="420"
+<img align="right" alt="Coding" width="410"
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
